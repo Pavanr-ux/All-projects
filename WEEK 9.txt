@@ -1,1 +1,1 @@
-https://github.com/Pavanr-ux/project-9-consumer-forecast-prediction.git
+https://github.com/Pavanr-ux/project-9-house-price-prediction.git
